@@ -1,0 +1,7 @@
+"long_name","language","name","short_name","phone","url","timezone","agency_id","position.lat","position.lng"
+"Chapel Hill Transit","en","cht","CHT",NA,"http://www.chtransit.org/","America/New_York","8",35.922,-79.05347
+"GoTriangle","en","tt","GoTriangle",NA,"http://www.triangletransit.org/","America/New_York","12",35.87451,-78.83801
+"NC State University Wolfline","en","ncsu","NCSU Wolfline",NA,"http://www.ncsu.edu/wolfline","America/New_York","16",35.78061,-78.68218
+"GoRaleigh","en","cat","GoRaleigh",NA,"http://www.raleighnc.gov/transit","America/New_York","20",35.77752,-78.63716
+"GoDurham","en","data","GoDurham",NA,"http://data.durhamnc.gov/Index_DATA.cfm","America/New_York","24",35.98974,-78.90292
+"Duke University","en","duke","Duke Transit",NA,"http://parking.duke.edu/buses_vans/bus_sched/index.php","America/New_York","176",36.0016,-78.9348
