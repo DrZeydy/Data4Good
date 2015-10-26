@@ -1,0 +1,284 @@
+"LEA.Name","School.Code","School.Name","SBE.Region","SPG.Grade","SPG.Score","Reading.SPG.Grade","Reading..SPG.Score","Math.SPG.Grade","Math.SPG.Score","EVAAS.Growth.Status","EVAAS.Growth.Score","Overall.Achievement.Score.99","Read.Score.99","Math.Score.99","Science.Score.99","Math.I.Score.99","English.II.Score.99","Biology.Score.99","The.ACT.Score.99","ACT.WorkKeys.Score.99","Math.Course.Rigor.Score.99","Cohort.Grad.Rate.Std.Score.99"
+"Durham Public Schools","320304","Bethesda Elementary",3,"D",49,"D",43,"D",48,"Exceeded",85.5,40,35,38,60,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320306","Brogden Middle",3,"D",41,"D",44,"F",33,"NotMet",68.4,35,36,24,54,93,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320308","Burton Elementary",3,"D",50,"D",44,"D",48,"Exceeded",87,40,34,38,67,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320309","J D Clement Early College HS",3,"A",91,"",NA,"",NA,"Exceeded",98.3,89,NA,NA,NA,86,81,71,85,NA,99,99
+"Durham Public Schools","320310","Eastway Elementary",3,"F",26,"F",25,"F",27,"NotMet",58.5,18,15,18,29,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320312","C E Jordan High",3,"B",71,"",NA,"",NA,"Exceeded",87.5,67,NA,NA,NA,43,63,60,59,82,99,86
+"Durham Public Schools","320313","Easley Elementary",3,"C",65,"B",70,"C",64,"Met",71,63,68,59,60,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320314","The School for Creative Studies",3,"C",55,"C",60,"D",54,"Exceeded",91.2,46,52,44,NA,35,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320315","Eno Valley Elementary",3,"F",38,"F",34,"D",41,"NotMet",65.9,31,25,33,42,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320316","George L Carrington Middle",3,"D",52,"D",45,"D",45,"Met",84.6,44,41,33,68,92,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320317","City of Medicine Academy",3,"B",82,"",NA,"",NA,"Exceeded",92.1,80,NA,NA,NA,59,83,NA,58,79,99,99
+"Durham Public Schools","320318","Club Boulevard Elementary",3,"D",53,"C",55,"D",48,"Exceeded",87.2,44,48,38,51,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320319","Creekside Elementary",3,"C",66,"C",64,"C",65,"Exceeded",85.6,61,58,62,65,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320320","Glenn Elementary",3,"D",40,"F",35,"D",41,"NotMet",69.6,33,26,35,49,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320322","Durham's Performance Learning Center",3,"",NA,"",NA,"",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320323","Durham School of the Arts",3,"B",78,"B",72,"C",65,"Exceeded",100,73,69,59,85,64,87,66,82,92,90,95
+"Durham Public Schools","320324","Hillandale Elementary",3,"C",61,"C",60,"C",63,"Exceeded",85.6,55,54,56,52,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320325","Hillside High",3,"C",61,"",NA,"",NA,"Exceeded",89.4,54,NA,NA,NA,24,44,39,38,50,94,88
+"Durham Public Schools","320327","Hope Valley Elementary",3,"C",62,"C",59,"C",61,"Exceeded",95.7,54,51,53,63,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320328","Holt Elementary",3,"C",59,"D",53,"C",58,"Exceeded",91.1,52,45,50,73,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320329","Holton Career and Resource Center",3,"I",NA,"",NA,"",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320332","Forest View Elementary",3,"C",63,"C",59,"C",64,"Met",83.8,58,55,59,62,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320336","DPS Hospital School",3,"F",6,"F",8,"F",0,"",NA,6,8,1,11,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320338","James E Shepard Middle",3,"F",37,"D",42,"F",30,"NotMet",55.3,32,36,23,44,71,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320339","Lakewood Elementary",3,"D",43,"F",34,"D",49,"Met",80.6,33,26,39,39,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320340","Little River Elementary",3,"C",68,"B",72,"C",66,"Met",70.9,67,69,67,62,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320341","Lakeview School",3,"",NA,"",NA,"",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320342","Lakewood Montessori Middle",3,"C",55,"C",63,"D",42,"NotMet",67.2,52,58,37,68,91,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320343","Lucas Middle",3,"D",45,"D",51,"F",37,"NotMet",62.1,41,44,31,58,92,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320344","Fayetteville Street Elementary",3,"F",38,"F",35,"D",41,"Met",84.6,26,23,29,27,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320346","Lowe's Grove Middle",3,"F",32,"F",39,"F",23,"NotMet",54.9,26,29,17,43,67,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320347","George Watts Elementary",3,"C",65,"C",67,"C",64,"Met",78.7,62,64,59,63,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320348","Mangum Elementary",3,"B",78,"B",76,"B",77,"Exceeded",88.8,75,73,75,80,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320352","Merrick-Moore Elementary",3,"F",37,"D",40,"F",34,"Met",70.8,28,30,25,33,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320353","Middle College HS @ DTCC",3,"A",92,"",NA,"",NA,"",NA,92,NA,NA,NA,NA,NA,NA,79,NA,99,99
+"Durham Public Schools","320354","Morehead Montessori",3,"C",61,"C",61,"C",58,"Met",83.1,56,57,52,66,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320355","Neal Middle",3,"F",33,"F",34,"F",26,"NotMet",56.5,27,28,18,44,80,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320356","Northern High",3,"C",60,"",NA,"",NA,"Exceeded",85.6,54,NA,NA,NA,35,46,32,37,54,99,81
+"Durham Public Schools","320360","Oak Grove Elementary",3,"C",58,"D",51,"C",59,"Met",82.9,51,45,52,68,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320362","Parkwood Elementary",3,"D",48,"D",49,"D",46,"Met",79.5,40,42,38,40,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320363","E K Powe Elementary",3,"D",51,"D",46,"D",51,"Exceeded",87,42,36,43,59,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320364","Pearsontown Elementary",3,"B",76,"B",76,"B",74,"Met",80.7,75,73,76,79,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320365","Riverside High",3,"C",67,"",NA,"",NA,"Met",82.3,63,NA,NA,NA,51,49,42,49,89,92,88
+"Durham Public Schools","320366","Sherwood Githens Middle",3,"D",43,"D",47,"F",31,"Met",70.9,36,38,24,52,83,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320367","R N Harris Elementary",3,"C",60,"C",56,"C",57,"Exceeded",89.3,52,48,50,70,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320368","Southern School of Energy and Sustainabi",3,"D",50,"",NA,"",NA,"NotMet",69.7,45,NA,NA,NA,27,33,18,17,41,93,83
+"Durham Public Schools","320369","Sandy Ridge Elementary",3,"D",49,"D",49,"D",48,"NotMet",66.1,45,43,44,54,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320370","Rogers-Herr Middle",3,"C",66,"C",66,"C",58,"Exceeded",89.4,61,62,50,74,99,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320372","Southwest Elementary",3,"D",49,"D",50,"D",48,"NotMet",62.9,46,45,45,50,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320374","C C Spaulding Elementary",3,"F",38,"D",40,"F",37,"Met",77.4,28,30,26,30,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320376","Spring Valley Elementary",3,"D",53,"D",54,"D",52,"Met",78.5,47,46,46,54,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320388","W G Pearson Elementary",3,"F",38,"F",37,"F",35,"Exceeded",85,26,25,23,39,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320389","WG Pearson Magnet Middle",3,"D",51,"D",41,"F",36,"Exceeded",94.4,40,30,23,66,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320400","Y E Smith Elementary",3,"D",41,"F",34,"D",40,"Exceeded",89.1,29,22,28,49,NA,NA,NA,NA,NA,NA,NA
+"Durham Public Schools","320700","Southern School of Engineering",3,"D",53,"",NA,"",NA,"NotMet",61.3,51,NA,NA,NA,39,56,18,34,49,99,99
+"Durham Public Schools","320701","Hillside New Tech High",3,"D",53,"",NA,"",NA,"NotMet",55.4,52,NA,NA,NA,33,51,24,36,NA,93,99
+"Johnston County Schools","510308","Benson Elementary",3,"C",61,"C",59,"C",62,"Exceeded",87.9,54,55,54,NA,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510310","Benson Middle",3,"C",55,"D",54,"D",45,"Exceeded",87.5,47,46,35,68,74,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510324","Clayton High",3,"C",66,"",NA,"",NA,"NotMet",57.6,68,NA,NA,NA,48,67,57,59,71,99,88
+"Johnston County Schools","510326","West Clayton Elementary",3,"C",59,"C",64,"C",57,"NotMet",68.2,57,59,55,59,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510327","Cleveland High",3,"B",78,"",NA,"",NA,"Exceeded",91.6,75,NA,NA,NA,70,70,63,61,83,99,90
+"Johnston County Schools","510328","Cleveland Elementary",3,"B",80,"B",77,"B",80,"Exceeded",85.6,78,76,78,83,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510329","Cleveland Middle",3,"B",79,"B",79,"B",70,"Exceeded",100,74,76,63,94,99,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510330","Cooper Elementary",3,"D",51,"C",55,"D",51,"NotMet",55.6,49,50,50,48,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510332","Corinth-Holders Elementary",3,"C",57,"C",55,"C",60,"Exceeded",90.5,49,46,52,47,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510333","Corinth Holders High",3,"B",74,"",NA,"",NA,"Met",79.5,72,NA,NA,NA,58,70,61,68,79,99,86
+"Johnston County Schools","510334","Dixon Road Elementary",3,"C",64,"C",60,"C",63,"Exceeded",85.1,59,55,57,72,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510336","East Clayton Elementary",3,"B",73,"B",74,"B",70,"Exceeded",92.1,69,70,65,75,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510340","Four Oaks Elementary",3,"D",54,"D",54,"D",52,"Met",71,49,50,45,58,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510342","Four Oaks Middle",3,"C",59,"C",63,"D",44,"Exceeded",85.9,53,57,36,77,94,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510344","North Johnston Middle",3,"C",59,"C",63,"D",43,"Exceeded",89.6,51,56,34,77,99,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510356","Glendale-Kenly Elementary",3,"C",58,"C",56,"C",61,"NotMet",63.7,57,53,59,61,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510357","Johnston Co Middle College",3,"A",95,"",NA,"",NA,"",NA,95,NA,NA,NA,NA,NA,75,91,NA,99,99
+"Johnston County Schools","510358","McGee's Crossroads Elem",3,"C",64,"C",64,"C",66,"Met",79.6,60,62,60,54,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510359","McGee's Crossroads Middle",3,"C",67,"C",68,"C",55,"Exceeded",92.4,61,63,47,86,99,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510360","Meadow School",3,"C",58,"C",57,"D",53,"Met",78.7,52,53,46,70,83,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510364","Archer Lodge Middle",3,"C",61,"B",70,"D",46,"Met",70.7,59,65,43,83,78,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510367","Johnston Co Early College Academy",3,"A",91,"",NA,"",NA,"Exceeded",89.4,91,NA,NA,NA,83,90,79,99,NA,99,99
+"Johnston County Schools","510368","North Johnston High",3,"B",71,"",NA,"",NA,"Exceeded",86.7,68,NA,NA,NA,58,52,55,62,84,93,81
+"Johnston County Schools","510372","Micro-Pine Level Elementary",3,"C",56,"D",51,"C",59,"Met",83.7,49,45,52,53,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510373","Powhatan Elementary",3,"B",81,"B",79,"B",81,"Exceeded",90.2,78,78,79,79,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510374","Princeton Elementary",3,"C",68,"C",60,"B",72,"Exceeded",87.1,63,56,68,71,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510376","Princeton High",3,"B",70,"C",63,"D",54,"Exceeded",91.2,65,59,47,88,60,73,62,58,77,99,88
+"Johnston County Schools","510377","River Dell Elementary",3,"B",77,"B",75,"B",76,"Exceeded",85.8,75,73,74,87,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510378","Riverwood Elementary",3,"B",73,"B",74,"B",73,"Met",71.6,73,73,72,77,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510379","Riverwood Middle",3,"B",76,"B",78,"C",63,"Exceeded",100,70,74,55,91,99,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510380","South Campus Community High",3,"",NA,"",NA,"",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510381","South Campus Community Middle",3,"",NA,"",NA,"",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510388","Selma Elementary",3,"D",41,"D",45,"F",39,"Met",73.8,33,35,32,33,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510390","Selma Middle School",3,"D",42,"D",45,"F",35,"Met",74.6,33,39,23,41,99,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510396","West Smithfield Elementary",3,"D",43,"F",38,"F",39,"Exceeded",87.6,32,27,27,58,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510397","Smithfield Middle",3,"D",49,"D",52,"D",40,"Met",75.2,42,45,32,59,99,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510399","Smithfield-Selma High",3,"D",53,"",NA,"",NA,"NotMet",52.3,53,NA,NA,NA,39,44,33,33,54,90,79
+"Johnston County Schools","510402","South Johnston High",3,"C",63,"",NA,"",NA,"NotMet",62,64,NA,NA,NA,50,53,50,43,60,99,92
+"Johnston County Schools","510404","South Smithfield Elementary",3,"D",51,"D",54,"D",49,"Met",80.7,44,47,41,44,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510406","West Johnston High",3,"C",66,"",NA,"",NA,"NotMet",59.2,68,NA,NA,NA,53,68,51,65,75,99,87
+"Johnston County Schools","510408","Wilson's Mills Elementary",3,"C",67,"C",58,"C",65,"Exceeded",100,58,49,57,87,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510410","Polenta Elementary",3,"C",63,"C",64,"C",63,"Exceeded",87.9,57,58,56,58,NA,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510412","Clayton Middle",3,"C",61,"C",66,"D",52,"Met",77.3,57,63,45,72,89,NA,NA,NA,NA,NA,NA
+"Johnston County Schools","510414","West View Elementary",3,"B",72,"B",70,"C",69,"Met",82.1,69,68,66,80,NA,NA,NA,NA,NA,NA,NA
+"Orange County Schools","680304","A L Stanback Middle",5,"C",55,"C",63,"D",49,"NotMet",53.8,56,60,47,65,78,NA,NA,NA,NA,NA,NA
+"Orange County Schools","680308","Cameron Park Elementary",5,"B",76,"B",73,"B",75,"Exceeded",92.6,72,69,72,78,NA,NA,NA,NA,NA,NA,NA
+"Orange County Schools","680310","Cedar Ridge High",5,"B",70,"",NA,"",NA,"NotMet",68.2,71,NA,NA,NA,57,59,60,69,85,99,87
+"Orange County Schools","680312","Central Elementary",5,"D",48,"D",49,"D",49,"NotMet",63.4,45,43,46,47,NA,NA,NA,NA,NA,NA,NA
+"Orange County Schools","680316","Charles W Stanford Middle",5,"C",65,"B",71,"D",54,"NotMet",64.5,65,69,53,79,99,NA,NA,NA,NA,NA,NA
+"Orange County Schools","680324","Efland Cheeks Elementary",5,"C",56,"C",56,"C",56,"Met",81.8,50,48,51,51,NA,NA,NA,NA,NA,NA,NA
+"Orange County Schools","680327","Gravelly Hill Middle",5,"C",58,"C",61,"D",47,"Met",77.7,53,57,41,74,99,NA,NA,NA,NA,NA,NA
+"Orange County Schools","680328","Grady Brown Elementary",5,"C",69,"C",67,"C",69,"Met",84.4,65,63,66,74,NA,NA,NA,NA,NA,NA,NA
+"Orange County Schools","680329","Hillsborough Elementary",5,"B",73,"B",74,"B",72,"Met",71.6,74,74,72,79,NA,NA,NA,NA,NA,NA,NA
+"Orange County Schools","680330","New Hope Elementary",5,"C",64,"C",59,"C",66,"Exceeded",91.9,57,52,60,63,NA,NA,NA,NA,NA,NA,NA
+"Orange County Schools","680332","Orange High",5,"C",67,"",NA,"",NA,"NotMet",66.2,68,NA,NA,NA,50,61,54,57,77,94,90
+"Orange County Schools","680335","Partnership Academy",5,"",NA,"",NA,"",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Orange County Schools","680336","Pathways Elementary",5,"C",68,"C",68,"C",67,"NotMet",67.7,68,66,68,76,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920302","River Bend Elementary",3,"C",62,"C",61,"C",60,"Met",81.1,57,55,56,68,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920304","Adams Elementary",3,"B",77,"B",74,"B",79,"Met",83.1,76,72,79,79,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920306","Herbert Akins Rd Elementary",3,"B",74,"B",76,"B",73,"Met",75.9,74,74,72,75,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920307","Alston Ridge Elementary",3,"B",82,"B",82,"B",82,"NotMet",65.2,86,84,87,88,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920308","Apex Elementary",3,"B",74,"B",77,"B",74,"NotMet",67.2,76,76,77,76,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920312","Apex Middle",3,"B",83,"B",78,"B",81,"Exceeded",90.9,81,78,78,94,89,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920316","Apex High",3,"A",86,"",NA,"",NA,"Exceeded",87.5,85,NA,NA,NA,78,86,78,87,85,93,91
+"Wake County Schools","920318","Athens Drive High",3,"B",80,"",NA,"",NA,"Exceeded",100,75,NA,NA,NA,65,72,66,71,80,95,80
+"Wake County Schools","920320","Aversboro Elementary",3,"C",64,"C",61,"C",66,"Met",83.3,59,56,62,59,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920324","Longview",3,"",NA,"",NA,"",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920325","Banks Rd Elementary",3,"B",76,"B",75,"B",75,"Exceeded",85.9,73,73,71,78,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920326","Baileywick Road Elementary",3,"C",62,"C",60,"C",66,"Met",75.4,59,56,62,57,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920327","Ballentine Elementary",3,"C",67,"C",69,"C",65,"Met",71.3,66,66,64,71,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920328","Baucom Elementary",3,"B",80,"B",79,"B",81,"Exceeded",85.7,78,77,80,79,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920329","Barwell Road Elementary",3,"D",46,"D",45,"D",48,"NotMet",61.8,42,40,43,45,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920334","Brassfield Elementary",3,"B",82,"B",81,"B",83,"Met",80.7,82,81,83,81,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920336","Brentwood Elementary",3,"D",53,"D",50,"C",56,"Met",76.9,47,44,49,52,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920340","Briarcliff Elementary",3,"B",76,"B",73,"B",75,"Met",79.2,75,72,75,85,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920342","Brier Creek Elementary",3,"B",72,"B",73,"B",72,"Met",76.2,71,71,72,67,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920344","Brooks Elementary",3,"B",79,"B",79,"B",78,"Exceeded",86.2,78,77,78,82,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920348","Needham Broughton High",3,"B",74,"",NA,"",NA,"Exceeded",87.7,71,NA,NA,NA,55,74,54,74,70,94,80
+"Wake County Schools","920352","Bugg Elementary",3,"D",52,"D",49,"D",54,"Met",72.5,46,45,47,50,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920356","Carnage Middle",3,"B",70,"C",69,"C",62,"Met",73.8,69,68,61,83,90,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920358","Carpenter Elementary",3,"B",76,"B",78,"B",75,"Met",73.5,76,77,76,77,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920360","Carroll Middle",3,"D",47,"C",55,"F",37,"NotMet",59.8,44,49,32,62,67,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920362","Carver Elementary",3,"C",64,"C",57,"C",67,"Exceeded",90.2,57,51,61,66,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920364","Cary Elementary",3,"B",71,"B",71,"B",74,"NotMet",66.6,73,71,74,73,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920368","Cary High",3,"B",83,"",NA,"",NA,"Exceeded",100,79,NA,NA,NA,66,78,79,78,80,91,82
+"Wake County Schools","920369","Cedar Fork Elementary",3,"A",89,"A",87,"A",89,"Exceeded",86.5,89,87,91,92,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920370","Centennial Campus Middle",3,"C",57,"C",60,"D",47,"Met",72.3,53,54,44,78,64,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920376","Combs Elementary",3,"B",73,"B",70,"B",73,"Exceeded",87.1,69,67,70,73,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920380","Conn Elementary",3,"C",59,"C",63,"C",55,"Met",70.8,56,58,52,59,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920384","Creech Road Elementary",3,"D",47,"D",45,"D",51,"Met",80.4,39,36,43,34,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920388","Daniels Middle",3,"C",60,"C",62,"D",53,"NotMet",59.1,60,60,51,76,78,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920390","Davis Drive Elementary",3,"A",93,"A",89,"A",93,"Exceeded",93.8,93,90,93,99,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920391","Davis Drive Middle",3,"A",90,"A",86,"A",88,"Exceeded",94.3,89,86,87,99,99,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920393","Dillard Drive Elementary",3,"C",60,"C",63,"C",55,"Met",80.1,55,57,53,59,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920394","Dillard Drive Middle",3,"C",63,"C",60,"D",54,"Met",80.4,58,55,49,80,93,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920396","Douglas Elementary",3,"C",64,"C",67,"C",68,"Met",74.7,62,65,64,45,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920398","Durant Road Elementary",3,"B",76,"B",71,"B",78,"Exceeded",92.4,72,67,75,75,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920399","Durant Road Middle",3,"C",62,"C",65,"D",51,"NotMet",67.9,61,61,49,78,86,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920400","Reedy Creek Middle",3,"C",56,"C",58,"D",48,"NotMet",57.8,56,58,45,75,80,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920402","East Cary Middle",3,"C",69,"C",68,"C",65,"Met",70.8,69,68,63,83,94,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920403","East Garner Elementary",3,"C",57,"D",54,"D",54,"Exceeded",89.1,49,47,46,66,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920404","East Garner Middle",3,"D",48,"D",51,"D",41,"NotMet",61.1,45,46,36,63,65,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920408","East Millbrook Middle",3,"D",49,"D",45,"F",38,"NotMet",67.5,44,41,32,74,74,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920410","East Wake Middle",3,"D",47,"D",53,"F",39,"NotMet",64.7,42,44,34,54,68,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920412","William G Enloe High",3,"B",72,"",NA,"",NA,"Met",76.7,70,NA,NA,NA,59,76,61,75,76,71,81
+"Wake County Schools","920413","Forestville Road Elementary",3,"C",62,"C",55,"C",67,"Met",82.1,57,48,63,64,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920414","Farmington Woods Elementary",3,"B",75,"B",78,"B",72,"Met",81.9,74,76,71,75,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920415","Fox Road Elementary",3,"D",49,"D",46,"D",51,"NotMet",68.9,44,39,47,50,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920416","Fuller Elementary",3,"B",72,"C",68,"B",74,"Exceeded",93.3,67,63,69,71,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920417","Forest Pines Elementary",3,"C",69,"C",68,"C",67,"Met",74.1,67,65,66,76,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920420","Fuquay-Varina Elementary",3,"B",74,"B",71,"B",74,"Exceeded",86.3,71,67,72,81,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920424","Fuquay-Varina Middle",3,"C",63,"C",64,"D",52,"Met",83.3,58,58,48,73,93,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920428","Fuquay-Varina High",3,"B",74,"",NA,"",NA,"Exceeded",90,70,NA,NA,NA,63,68,45,67,51,89,80
+"Wake County Schools","920436","Garner High",3,"B",71,"",NA,"",NA,"Exceeded",97.6,64,NA,NA,NA,45,59,57,54,88,92,84
+"Wake County Schools","920438","River Oaks Middle",3,"",NA,"",NA,"",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920439","Green Hope Elementary",3,"A",88,"A",86,"A",91,"Exceeded",94.4,87,85,89,85,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920440","Green Elementary",3,"C",55,"D",54,"C",55,"Met",72.3,51,47,52,58,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920441","Green Hope High",3,"A",90,"",NA,"",NA,"Exceeded",89.5,90,NA,NA,NA,82,90,84,91,88,99,99
+"Wake County Schools","920442","Hilburn Drive Academy",3,"C",69,"C",68,"B",72,"Exceeded",86.2,65,64,67,55,99,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920443","Highcroft Elementary",3,"A",91,"A",90,"A",91,"Exceeded",88.6,91,91,92,91,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920444","Heritage Middle",3,"B",80,"B",79,"B",74,"Met",81.6,79,78,73,88,93,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920445","Heritage High",3,"B",77,"",NA,"",NA,"Exceeded",92.9,74,NA,NA,NA,59,75,63,68,68,93,85
+"Wake County Schools","920446","Hodge Road Elementary",3,"D",44,"D",41,"D",47,"Met",82.4,34,30,38,38,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920447","Holly Springs Elementary",3,"B",82,"B",82,"B",79,"Exceeded",87.5,80,80,79,84,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920448","Hunter Elementary",3,"C",66,"C",66,"C",65,"Met",83,62,61,61,68,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920449","Holly Ridge Elementary",3,"B",76,"B",76,"B",71,"Met",84.8,73,73,71,81,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920450","Holly Ridge Middle",3,"C",69,"C",68,"C",60,"Met",74.5,68,66,60,83,99,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920451","Harris Creek Elementary",3,"C",69,"B",70,"C",68,"Exceeded",86.8,65,65,64,69,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920452","Jeffreys Grove Elementary",3,"C",69,"B",70,"C",66,"Met",80.1,66,67,64,70,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920453","Jones Dairy Elementary",3,"A",86,"A",85,"A",86,"Met",82.6,86,85,89,84,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920454","Heritage Elementary",3,"B",79,"B",78,"B",78,"NotMet",67.7,82,81,81,85,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920455","Holly Springs High",3,"B",83,"",NA,"",NA,"Exceeded",93.1,81,NA,NA,NA,72,79,69,79,84,99,91
+"Wake County Schools","920456","Joyner Elementary",3,"B",73,"B",75,"B",73,"NotMet",66.1,75,74,76,77,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920457","Holly Grove Elementary",3,"B",79,"B",78,"B",79,"NotMet",67.6,81,79,82,85,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920458","Holly Grove Middle",3,"C",66,"C",66,"C",57,"NotMet",59.8,67,67,57,88,84,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920460","Kingswood Elementary",3,"C",66,"C",64,"C",66,"Met",79.5,62,60,63,67,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920464","Knightdale Elementary",3,"D",53,"D",49,"C",57,"NotMet",64.7,50,44,54,56,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920466","Knightdale High",3,"C",64,"",NA,"",NA,"Exceeded",87.6,58,NA,NA,NA,46,47,42,42,71,90,81
+"Wake County Schools","920467","Laurel Park Elementary",3,"B",82,"B",81,"B",81,"Exceeded",85.6,81,81,81,86,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920468","Lacy Elementary",3,"B",79,"B",78,"B",78,"Met",84.6,78,76,78,83,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920469","Leesville Road Elementary",3,"B",71,"B",73,"B",71,"Met",71.3,71,71,71,70,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920470","Lead Mine Elementary",3,"C",68,"C",66,"B",70,"NotMet",67.2,68,65,69,78,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920471","Leesville Road Middle",3,"B",71,"B",73,"C",63,"Met",77.4,70,70,61,83,92,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920472","Ligon Middle",3,"B",73,"B",74,"C",62,"Met",78.3,71,72,61,85,92,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920473","Leesville Road High",3,"A",85,"",NA,"",NA,"Exceeded",100,81,NA,NA,NA,77,78,72,77,75,99,88
+"Wake County Schools","920474","Lake Myra Elementary",3,"C",56,"C",57,"D",54,"NotMet",62,55,54,53,59,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920476","Lincoln Heights Elementary",3,"D",50,"D",49,"D",48,"Met",81.8,42,41,40,50,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920480","Lockhart Elementary",3,"C",59,"C",58,"C",56,"Met",77.6,54,53,52,65,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920484","Lufkin Road Middle",3,"B",84,"B",77,"B",81,"Exceeded",93.4,81,78,78,90,99,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920488","Lynn Road Elementary",3,"D",52,"D",51,"D",50,"NotMet",67.9,48,45,46,62,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920492","Martin Middle",3,"B",73,"C",69,"C",68,"Met",77.1,72,69,66,81,95,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920494","Middle Creek Elementary",3,"B",82,"B",79,"B",81,"Exceeded",91.2,80,76,80,87,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920495","Middle Creek High",3,"B",83,"",NA,"",NA,"Exceeded",100,79,NA,NA,NA,71,77,76,67,89,95,87
+"Wake County Schools","920496","Millbrook Elementary",3,"C",62,"C",60,"C",61,"Exceeded",88.2,56,53,56,66,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920500","Millbrook High",3,"B",81,"",NA,"",NA,"Exceeded",100,76,NA,NA,NA,59,77,59,77,70,95,87
+"Wake County Schools","920501","Mills Park Elementary",3,"A",86,"A",87,"B",83,"Met",78.1,88,88,86,92,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920502","Mills Park Middle",3,"B",80,"B",78,"B",73,"Met",71.2,82,81,77,94,99,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920504","Morrisville Elementary",3,"A",89,"A",87,"A",90,"Exceeded",85.3,90,89,91,90,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920506","Moore Square Museum Magnet Middle",3,"D",53,"D",52,"D",44,"Met",84.6,45,46,34,65,95,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920508","Mount Vernon",3,"",NA,"",NA,"",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920512","North Garner Middle",3,"C",55,"C",57,"D",45,"Met",72.3,50,51,40,68,92,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920514","North Forest Pines Drive Elementary",3,"B",78,"B",76,"B",78,"Exceeded",87,76,74,76,83,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920516","North Ridge Elementary",3,"C",67,"C",67,"C",64,"Met",81.3,63,62,62,72,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920520","Northwoods Elementary",3,"B",70,"C",67,"B",72,"Exceeded",86.3,67,64,67,73,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920522","Oak Grove Elementary",3,"B",83,"B",82,"B",79,"Met",83.7,83,82,81,91,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920523","Olive Chapel Elementary",3,"A",85,"A",86,"B",82,"Met",80.5,85,86,84,86,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920524","Olds Elementary",3,"B",79,"B",82,"B",73,"Exceeded",86.4,77,81,71,84,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920525","Partnership Elementary",3,"C",62,"C",68,"C",55,"Met",79.7,57,65,49,59,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920526","Panther Creek High",3,"A",89,"",NA,"",NA,"Exceeded",100,87,NA,NA,NA,78,82,82,87,89,99,95
+"Wake County Schools","920528","Phillips High",3,"",NA,"",NA,"",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920530","Penny Road Elementary",3,"B",80,"B",77,"B",81,"Exceeded",89.5,77,75,80,78,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920531","Pleasant Union Elementary",3,"B",78,"B",76,"B",80,"Met",80,77,75,80,76,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920532","Poe Elementary",3,"C",60,"C",60,"C",58,"Met",79.9,55,54,55,55,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920536","Powell Elementary",3,"C",56,"C",55,"C",57,"Met",83.3,49,50,49,50,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920540","Rand Road Elementary",3,"C",68,"C",66,"B",71,"Met",71.7,67,64,69,69,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920542","Reedy Creek Elementary",3,"C",63,"C",64,"C",63,"Met",74.4,60,59,61,58,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920543","Richland Creek ES",3,"C",63,"C",67,"C",60,"Met",81.8,58,63,55,57,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920544","Rolesville Elementary",3,"B",75,"C",69,"B",77,"Met",84.6,72,68,74,81,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920545","Rolesville Middle",3,"C",63,"C",67,"C",55,"Met",78.7,59,62,51,77,88,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920546","Rolesville High",3,"C",56,"",NA,"",NA,"Met",76.2,50,NA,NA,NA,51,40,59,NA,NA,NA,NA
+"Wake County Schools","920548","Root Elementary",3,"B",70,"B",75,"C",64,"Met",71.4,70,73,65,74,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920550","Salem Elementary",3,"B",76,"B",75,"B",75,"Met",76.6,76,74,76,81,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920551","Salem Middle",3,"B",81,"B",76,"B",77,"Exceeded",89.4,79,77,74,91,99,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920552","Sanderson High",3,"B",76,"",NA,"",NA,"Exceeded",100,71,NA,NA,NA,56,67,58,69,67,93,83
+"Wake County Schools","920554","Sanford Creek Elementary",3,"C",62,"C",62,"C",69,"NotMet",66.8,61,59,66,50,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920560","Smith Elementary",3,"C",55,"D",54,"D",53,"Met",82.6,48,47,46,60,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920562","Southeast Raleigh High",3,"C",65,"",NA,"",NA,"Exceeded",92.7,58,NA,NA,NA,41,57,36,43,67,84,80
+"Wake County Schools","920564","Stough Elementary",3,"C",60,"C",66,"C",57,"Met",78.9,55,61,53,43,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920568","Swift Creek Elementary",3,"C",67,"B",70,"C",66,"NotMet",57.5,70,70,69,72,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920569","Sycamore Creek Elementary",3,"A",85,"B",83,"A",87,"Met",80.8,86,84,88,88,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920570","Timber Drive Elementary",3,"C",61,"C",61,"C",60,"NotMet",62.1,60,58,59,71,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920571","Turner Creek Elementary",3,"B",81,"B",78,"B",81,"Met",84,80,77,81,86,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920572","Underwood Elementary",3,"B",80,"B",82,"B",76,"Met",78.5,80,82,78,80,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920576","Vance Elementary",3,"C",67,"C",61,"B",72,"Exceeded",87.3,63,58,67,62,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920580","Vandora Springs Elementary",3,"C",62,"C",64,"C",59,"Exceeded",86,56,58,52,60,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920582","Wake NCSU STEM ECHS",3,"A",89,"",NA,"",NA,"Exceeded",88.5,89,NA,NA,NA,88,91,90,88,NA,NA,NA
+"Wake County Schools","920583","Wake Early College of Health and Science",3,"A",89,"",NA,"",NA,"Exceeded",90.6,88,NA,NA,NA,76,91,79,99,NA,99,99
+"Wake County Schools","920584","Wake Forest Elementary",3,"B",73,"B",73,"B",73,"Met",78.2,72,72,72,75,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920585","Wake Young Men's Leadership Academy",3,"C",67,"B",75,"D",53,"NotMet",59.2,69,75,52,91,75,90,54,NA,NA,NA,NA
+"Wake County Schools","920586","Wake Young Women's Leadership Academy",3,"B",78,"B",80,"C",67,"Exceeded",90,75,79,63,93,68,93,69,NA,NA,NA,NA
+"Wake County Schools","920588","Wake Forest High School",3,"B",80,"",NA,"",NA,"Exceeded",100,76,NA,NA,NA,59,69,77,69,87,93,85
+"Wake County Schools","920592","Wake Forest Middle School",3,"C",66,"C",68,"D",53,"Exceeded",87.2,61,62,49,83,78,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920593","Wakefield Elementary",3,"C",60,"C",63,"C",61,"Met",71.4,57,58,58,50,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920594","Wakefield Middle",3,"C",69,"B",73,"C",56,"Met",74.2,68,70,55,87,83,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920595","Wakefield High",3,"B",79,"",NA,"",NA,"Exceeded",100,74,NA,NA,NA,63,69,69,64,68,92,88
+"Wake County Schools","920596","Washington Elementary",3,"B",74,"B",76,"B",71,"Exceeded",89.4,70,72,68,70,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920597","Wakelon Elementary",3,"C",57,"C",57,"D",52,"Met",76.7,52,52,47,65,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920598","Weatherstone Elementary",3,"B",84,"B",79,"A",86,"Exceeded",98.9,81,76,84,87,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920599","Walnut Creek ES",3,"D",44,"D",47,"D",44,"NotMet",63.6,40,39,39,43,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920600","Wendell Elementary",3,"C",60,"C",56,"D",52,"Exceeded",90.4,52,48,45,79,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920601","Wendell Middle",3,"D",46,"D",50,"F",35,"NotMet",56.4,43,43,31,74,56,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920604","West Cary Middle",3,"B",72,"B",72,"C",64,"NotMet",67.2,73,72,65,90,90,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920606","West Lake Elementary",3,"B",76,"B",75,"B",76,"Exceeded",90.1,72,72,72,73,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920607","West Lake Middle",3,"B",73,"B",72,"C",67,"Exceeded",85,71,70,63,82,99,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920608","West Millbrook Middle",3,"C",63,"C",64,"D",52,"Met",71.2,61,62,49,78,93,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920616","Wilburn Elementary",3,"D",51,"D",51,"D",51,"Met",80.5,43,43,44,42,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920618","Wildwood Forest Elementary",3,"C",58,"C",60,"C",58,"NotMet",56.9,58,57,58,59,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920620","Wiley Elementary",3,"B",74,"B",71,"B",72,"Exceeded",85.2,71,67,70,82,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920624","Willow Springs Elementary",3,"B",83,"B",77,"B",83,"Exceeded",92.7,80,76,81,90,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920626","Yates Mill Elementary",3,"B",74,"C",67,"B",76,"Met",83.1,72,64,75,85,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920628","York Elementary",3,"C",65,"C",65,"C",62,"Met",74.7,63,62,59,75,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920632","Zebulon Elementary",3,"C",66,"C",68,"C",64,"Exceeded",85.6,61,62,60,61,NA,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920636","Zebulon Middle",3,"D",54,"C",60,"D",43,"NotMet",69,50,54,39,70,51,NA,NA,NA,NA,NA,NA
+"Wake County Schools","920700","East Wake School of Health Science",3,"B",73,"",NA,"",NA,"Exceeded",89.3,68,NA,NA,NA,46,71,49,53,74,99,89
+"Wake County Schools","920701","East Wake School of Integrated Technolog",3,"C",60,"",NA,"",NA,"Met",78.9,55,NA,NA,NA,37,58,31,56,52,93,81
+"Wake County Schools","920702","East Wake School of Arts Education and G",3,"C",68,"",NA,"",NA,"Exceeded",92.8,62,NA,NA,NA,33,59,53,38,58,92,86
+"Wake County Schools","920703","East Wake School of Engineering",3,"D",54,"",NA,"",NA,"NotMet",62.8,52,NA,NA,NA,30,42,30,35,78,95,76
